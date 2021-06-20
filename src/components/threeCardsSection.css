@@ -1,0 +1,42 @@
+
+.circle-arrow {
+    margin-top: 15px;
+    width: 3vw;
+    height: 5vh;
+    border-radius: 50%;
+}
+
+.circle-arrow1 {
+    background-color: rgb(174, 215, 243);
+}
+
+.circle-arrow2 {
+    background-color: pink;
+}
+
+.circle-arrow3 {
+    background-color: rgb(179, 253, 179);
+}
+
+.card2-container {
+    margin-top: -20px;
+}
+
+.arrowLeft {
+    width: 50px;
+    height: 5vh;
+    position: relative;
+    left: 50%;
+}
+
+.card-color1 {
+    background-color: rgb(235, 243, 253);
+}
+
+.card-color2 {
+    background-color: rgb(255, 235, 235);
+}
+
+.card-color3 {
+    background-color: rgb(233, 255, 233);
+}

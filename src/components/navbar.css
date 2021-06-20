@@ -1,0 +1,21 @@
+.nav-btn1 {
+    border-radius: 25px;
+    color: white !important;
+    background-color: black;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    margin-right: 15px;
+}
+
+.navbar-right-links {
+    float: right;
+    margin-right: 120px;
+}
+
+.custom-font-bold {
+    font-weight: bolder;
+}
+
+.logo-name {
+    font-size: 1.5rem !important;
+}

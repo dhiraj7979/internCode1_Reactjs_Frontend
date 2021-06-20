@@ -1,0 +1,56 @@
+.mycover {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.coverSideImage {
+    width: 40vw;
+    height: auto;
+    margin-right: 50px;
+}
+
+.heading1 {
+    font-size: 2.8rem !important; 
+    font-weight: bold !important;
+}
+
+.mypara1 {
+    margin-top: 30px;
+    font-weight: bolder;
+}
+
+.mypara2 {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.mypara3 {
+    margin-top: 1px;
+    margin-bottom: 35px;
+}
+
+.mybtn1 {
+    color: white !important;
+    background-color: rgb(75, 11, 179) !important;
+    border-radius: 15px !important;
+}
+
+.arrow-down {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-left: 40px;
+}
+
+.para-orange-div {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.para-orange {
+    display: block;
+    color: orange;
+    margin: 0;
+}

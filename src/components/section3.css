@@ -1,0 +1,54 @@
+.section3 {
+    background-color: white !important;
+}
+
+.section3-heading {
+    position: relative;
+    background-color: rgb(253, 253, 253);
+    margin: 0 ;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.myflex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    padding-bottom: 50px;
+}
+
+.Section3Img {
+    display: inline-block;
+    width: 40vw;
+    margin-right: 50px;
+}
+
+.section3-btn {
+    border-radius: 55px !important;
+    border: 2px solid black !important;
+}
+
+.section3-circle {
+    position: absolute;
+    top: -15px;
+    left: 30px;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background-color: rgb(250, 239, 244);
+}
+
+.section3-leaf {
+    position: absolute;
+    top: 2px;
+    right: 70px;
+    width: 70px;
+    height: 70px;
+    opacity: 60%;
+}
+
+.leafImage {
+    width: 100%;
+}
