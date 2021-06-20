@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import './section3.css';
-import Section3Img from './section3Image.jpg';
+// import Section3Img from '../image/section3Image.jpg';
+import Section3Img from '../images/section3Image.jpg'
 import LeafImage from '../images/leaf.PNG';
 
 export default class Section3 extends Component {

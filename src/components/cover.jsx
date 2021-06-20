@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import './cover.css';
-import arrowOnCover from './arrowcover2.png';
-import coverSideImage from './coverSideImage.jpg';
+import arrowOnCover from '../images/arrowcover2.png';
+import coverSideImage from '../images/coverSideImage.jpg';
 
 export default class Cover extends Component {
   render() {

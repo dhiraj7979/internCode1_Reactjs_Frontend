@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import './threeCardsSection.css';
-import arrowLeft from './arrow-left.png';
+import arrowLeft from '../images/arrow-left.png';
 
 export default class ThreeCardsSection extends Component {
   render() {
