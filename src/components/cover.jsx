@@ -15,10 +15,10 @@ export default class Cover extends Component {
             </p>
             <p className="mypara2">Learn with our comprehensive curriculum and experienced</p>
             <p className="mypara3">Step into the world of practical data science.</p>
-            <a className="btn btn-outline-secondary mybtn1" href="#">
+            <a className="btn btn-outline-secondary mybtn1" href="/">
               Learn More
             </a>
-            <img className="arrow-down" src={arrowOnCover} />
+            <img className="arrow-down" src={arrowOnCover} alt="" />
             <div className="para-orange-div">
               <p className="para-orange">Learn More</p>
               <p className="para-orange">our latest work intro</p>
@@ -27,8 +27,6 @@ export default class Cover extends Component {
           <div>
             <img className="coverSideImage" src={coverSideImage} alt="coverSideImage" />
           </div>
-          {/* <div className="product-device shadow-sm d-none d-md-block"></div>
-          <div className="product-device product-device-2 shadow-sm d-none d-md-block"></div> */}
         </div>
       </div>
     );

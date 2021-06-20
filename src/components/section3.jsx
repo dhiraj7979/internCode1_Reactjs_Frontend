@@ -18,8 +18,8 @@ export default class Section3 extends Component {
             </div>
 
           </div>
-        <div class="position-relative overflow-hidden myflex-container">
-          <div class="col-md-5 p-lg-5 mx-auto my-5">
+        <div className="position-relative overflow-hidden myflex-container">
+          <div className="col-md-5 p-lg-5 mx-auto my-5">
             <h2 className="">Data Science Sdot is one of the</h2>
             <h2>leading platforms providin data</h2>
             <h2>scence solution</h2>
@@ -31,7 +31,7 @@ export default class Section3 extends Component {
               And an even wittier subheading to boot. Jumpstart your marketing
               efforts with this example based on Apple’s marketing pages.
             </p>
-            <a class="btn btn-outline-dark px-4 section3-btn" href="#">
+            <a className="btn btn-outline-dark px-4 section3-btn" href="/">
               Learn More
             </a>
           </div>

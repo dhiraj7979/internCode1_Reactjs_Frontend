@@ -6,14 +6,14 @@ export default class ThreeCardsSection extends Component {
   render() {
     return (
       <div>
-        <div class="album py-5 bg-light">
-          <div class="container">
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div className="album py-5 bg-light">
+          <div className="container">
+            <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
               
-              <div class="col">
-                <div class="card shadow-sm">
-                  <div class="card-body card-color1">
-                    <p class="card-text">
+              <div className="col">
+                <div className="card shadow-sm">
+                  <div className="card-body card-color1">
+                    <p className="card-text">
                       Solutions Visualization
                     </p>
 
@@ -30,10 +30,10 @@ export default class ThreeCardsSection extends Component {
                 </div>
               </div>
 
-              <div class="col">
-                <div class="card shadow-sm">
-                  <div class="card-body card-color2 card2-container">
-                    <p class="card-text">
+              <div className="col">
+                <div className="card shadow-sm">
+                  <div className="card-body card-color2 card2-container">
+                    <p className="card-text">
                       Data Consulting
                     </p>
 
@@ -50,10 +50,10 @@ export default class ThreeCardsSection extends Component {
                 </div>
               </div>
 
-              <div class="col">
-                <div class="card shadow-sm">
-                  <div class="card-body card-color3">
-                    <p class="card-text">
+              <div className="col">
+                <div className="card shadow-sm">
+                  <div className="card-body card-color3">
+                    <p className="card-text">
                       Data Case Studies
                     </p>
 
